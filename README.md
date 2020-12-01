@@ -27,4 +27,4 @@ This is a totally unofficial implementation, this is not made by the reference c
 
 **Contact**
 
-Marie Dubremetz. firstname.lastname@lingfil.uu.se
+Marie Dubremetz. github: mardub1635 email:marie@stp.lingfil.uu.se
